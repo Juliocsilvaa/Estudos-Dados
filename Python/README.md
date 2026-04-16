@@ -29,16 +29,21 @@ Para cada biblioteca estudada:
 ## 📚 Bibliotecas Exploradas
 Cada biblioteca possui sua própria pasta com descrição detalhada e exemplos práticos.
 
-📁 **`1. Automação`**
+📁 **`01. Automação`**
 
 - PyAutoGui
 -
 -
 
-📁 **`2. `**
+📁 **`02. API`**
+
+- Request
+- 
+- 
+
+📁 **`03 `**
 
 - 
 - 
 - 
-
 
