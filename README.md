@@ -1,7 +1,7 @@
 
-# 📚 Projetos de Análise de Dados — Estudos Práticos
+# 📚 Projetos em Dados — Estudos Práticos
 
-Esta pasta reúne projetos de **análise de dados desenvolvidos a partir de estudos guiados**, utilizando códigos, tutoriais e materiais disponíveis publicamente na internet.
+Esta pasta reúne projetos de **Dados desenvolvidos a partir de estudos guiados**, utilizando códigos, tutoriais e materiais disponíveis publicamente na internet.
 
 O objetivo não é apresentar projetos autorais completos, mas sim documentar o processo de aprendizado, prática e consolidação de técnicas analíticas.
 
@@ -13,7 +13,7 @@ Cada pasta contém um README próprio com:
 
 # 🎯 Objetivo da Pasta
 
-- Reforçar conceitos de análise de dados;
+- Reforçar conceitos de Dados;
 - Explorar bibliotecas e ferramentas amplamente utilizadas;
 - Reproduzir estudos guiados para compreender a lógica por trás das implementações;
 - Adaptar e testar variações nos códigos estudados;
