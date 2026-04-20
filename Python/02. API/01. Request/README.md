@@ -25,7 +25,7 @@ Ela abstrai a complexidade das requisições HTTP, permitindo trabalhar de forma
 
 Os conceitos estudados com a biblioteca Requests foram aplicados em dois contextos com foco em ingestão e integração de dados.
 
-O primeiro ocorreu em um projeto desenvolvido na disciplina de **Introdução à Ciência de Dados**, disponível neste repositório ([Ver Projeto 2](https://github.com/Juliocsilvaa/Projetos-Pessoais/tree/main/Disciplina%20Introdu%C3%A7%C3%A3o%20a%20Ciencia%20de%20Dados/Projeto%202)), no qual a biblioteca foi utilizada para ingestão de dados hidrológicos via API, estruturando a coleta de dados externos para posterior tratamento e análise.
+O primeiro ocorreu em um projeto desenvolvido na disciplina de **Introdução à Ciência de Dados**, disponível neste repositório ([Ver Projeto](https://github.com/Juliocsilvaa/Projetos-Pessoais/tree/main/Disciplina%20Introdu%C3%A7%C3%A3o%20a%20Ciencia%20de%20Dados/Projeto%202)), no qual a biblioteca foi utilizada para ingestão de dados hidrológicos via API, estruturando a coleta de dados externos para posterior tratamento e análise.
 
 O segundo contexto envolveu a utilização da biblioteca para consulta e extração de dados a partir do ambiente do Databricks, atuando como mecanismo de integração entre sistemas e permitindo a incorporação de dados ao fluxo analítico. Este repositório, em específico, tem como objetivo demonstrar a implementação desse processo, com foco na integração via API e consumo de dados no Databricks.
 
